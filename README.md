@@ -9,7 +9,7 @@ Code includes:
 - pre-processing of HMS-LINCS data
 - implementation of Random Forests algorithm to classify tumor status
 - implementation of Logistic Regression model to classify survival status
-- implementation of Cox-PH Regression algorithm to predict survival time
+- implementation of Cox-PH Regression algorithm to predict survival time (sample_analysis_COX.R)
 
 
 Data includes: 
