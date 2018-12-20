@@ -7,8 +7,8 @@ Code includes:
 
 - pre-processing of BRCA data
 - pre-processing of HMS-LINCS data
-- implementation of Random Forests algorithm to classify tumor status
-- implementation of Logistic Regression model to classify survival status
+- implementation of Random Forests algorithm to classify tumor status (sample_analysis_RF.r)
+- implementation of Logistic Regression model to classify survival status (sample_analysis_LOGIT.r)
 - implementation of Cox-PH Regression algorithm to predict survival time (sample_analysis_COX.R)
 
 
